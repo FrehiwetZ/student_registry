@@ -1,0 +1,5 @@
+com\hrs\pre\util\DBConnection.class
+com\hrs\pre\controller\RegisterServlet.class
+com\hrs\pre\controller\ShowAllServlet.class
+com\hrs\pre\JakartaRestConfiguration.class
+com\hrs\pre\resources\JakartaEE8Resource.class
