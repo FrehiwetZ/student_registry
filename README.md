@@ -1,4 +1,4 @@
-#Student Registry
+# Student Registry
 
 A simple Java Servlet web application for managing student registrations. The app accepts student details from a form and stores them in a database using JDBC.
 
@@ -115,7 +115,7 @@ student_registry/
 ├─ pom.xml (if using Maven)
 └─ README.md
 
-# Notes
+ Notes
 
 Ensure the JDBC driver .jar (e.g., mysql-connector-java.jar) is in your project classpath.
 
